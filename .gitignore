@@ -1,0 +1,5 @@
+# Compiled Java classes
+*.class
+
+# macOS metadata
+.DS_Store
